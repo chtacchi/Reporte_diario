@@ -1,0 +1,19 @@
+11/11/2025
+Asunto: Avance - Componente galería de imágenes
+
+Hoy trabajé en:
+- Estructura HTML del componente y contenedor principal.
+- Integración con TailwindCSS para diseño responsivo.
+- Creación de galeria.json con imágenes de prueba.
+- Implementación de script.js para mostrar imágenes dinámicamente y visor overlay.
+
+Pendiente / Dificultades:
+- Ajustes finales de diseño del visor en diferentes resoluciones.
+- Pruebas de integración para copia/pegado en otra página.
+
+Próximos pasos:
+- Terminar ajustes del visor y pruebas.
+- Documentar integración rápida y enviar versión final.
+
+Atte.
+Christian Tacchi
